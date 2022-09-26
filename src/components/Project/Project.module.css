@@ -1,0 +1,10 @@
+.projectCover {
+  transition: all 1s;
+
+  /* opacity: 0; */
+}
+
+.projectCover:hover {
+  /* border: 10px solid red; */
+  /* opacity: 0; */
+}
