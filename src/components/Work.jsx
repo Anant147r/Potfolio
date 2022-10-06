@@ -6,9 +6,16 @@ import {
   NetflixHomepage,
   MicrosoftHomepage,
   GoogleHomePage,
+  ChitChatMessengerApp,
 } from "../imageAssets/imageAssets";
 const Work = () => {
   const projects = [
+    {
+      projectName: "Chit Chat App (Messenger App)",
+      projectURL: "https://chit-a-chat.herokuapp.com/",
+      codeURL: "",
+      backgroundImage: ChitChatMessengerApp,
+    },
     {
       projectName: "Dev Connector App",
       projectURL: "https://secret-citadel-37038.herokuapp.com/",
@@ -21,12 +28,7 @@ const Work = () => {
       codeURL: "https://github.com/Anant147r/Kanban-Board",
       backgroundImage: KanbanBoard,
     },
-    {
-      projectName: "aDevConnectorApp",
-      projectURL: "aDevConnectorApp",
-      codeURL: "adsf",
-      backgroundImage: DevConnectorApp,
-    },
+
     {
       projectName: "Netfilx Homepage",
       projectURL: "https://anant147r.github.io/Netflix_home_page/",
