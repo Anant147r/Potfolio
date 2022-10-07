@@ -10,6 +10,7 @@ import FireBase from "../assets/firebase.png";
 import GitHub from "../assets/github.png";
 import Tailwind from "../assets/tailwind.png";
 import Mongo from "../assets/mongo.png";
+import Jest from "../assets/jest.png";
 
 const Skills = () => {
   return (
@@ -55,6 +56,10 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={FireBase} alt="HTML icon" />
             <p className="my-4">Firebase</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Jest} alt="HTML icon" />
+            <p className="my-4">Jest</p>
           </div>
         </div>
       </div>

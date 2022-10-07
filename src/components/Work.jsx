@@ -11,7 +11,7 @@ import {
 const Work = () => {
   const projects = [
     {
-      projectName: "Chit Chat App (Messenger App)",
+      projectName: "Messenger App",
       projectURL: "https://chit-a-chat.herokuapp.com/",
       codeURL: "",
       backgroundImage: ChitChatMessengerApp,
