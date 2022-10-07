@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Potfolio/static/css/main.5233b61a.css",
-    "main.js": "/Potfolio/static/js/main.5bdd4769.js",
+    "main.js": "/Potfolio/static/js/main.1bc54179.js",
     "static/media/NetflixHomepage.PNG": "/Potfolio/static/media/NetflixHomepage.904fd087b9b777690308.PNG",
     "static/media/DevConnectorApp.PNG": "/Potfolio/static/media/DevConnectorApp.dc159c8db8f2eeef9298.PNG",
     "static/media/MicrosoftHomepage.PNG": "/Potfolio/static/media/MicrosoftHomepage.e0e49ebf7831a0ee67ec.PNG",
@@ -17,13 +17,14 @@
     "static/media/tailwind.png": "/Potfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/Potfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/firebase.png": "/Potfolio/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/jest.png": "/Potfolio/static/media/jest.2f891f5f08fc21ed7f87.png",
     "static/media/javascript.png": "/Potfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Potfolio/index.html",
     "main.5233b61a.css.map": "/Potfolio/static/css/main.5233b61a.css.map",
-    "main.5bdd4769.js.map": "/Potfolio/static/js/main.5bdd4769.js.map"
+    "main.1bc54179.js.map": "/Potfolio/static/js/main.1bc54179.js.map"
   },
   "entrypoints": [
     "static/css/main.5233b61a.css",
-    "static/js/main.5bdd4769.js"
+    "static/js/main.1bc54179.js"
   ]
 }
